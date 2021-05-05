@@ -1,0 +1,7 @@
+main: me.Blume.HelloWorld.Main
+name: Reset
+version: 1.0
+author: BlumeSegal
+
+commands:
+  reset:
